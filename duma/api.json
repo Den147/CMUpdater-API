@@ -1,10 +1,11 @@
 {
-  "response": [
+  "response": 
+  [
     {
       "filename": "lineage-13.0-20170709-NIGHTLY-duma.zip",
       "url": "https://goo.gl/sZ4mt8",
       "md5sum": "4ef2acbbcf7e31a9f4c2ed3449626538",
-      "datetime": 1499619866,
+      "datetime": "1499619866",
       "romtype": "nightly"
     }
   ]
