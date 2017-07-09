@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "",
-    "timestamp": "",
+    "url": "https://qc0.uploads.androidfilehost.com/dl/00fDUeJoWXLAJM-Kz9mKmw/1499851062/673368273298970168/lineage-13.0-20170709-NIGHTLY-duma.zip",
+    "timestamp": "1499619866",
     "api_level": "23",
-    "md5sum": "",
-    "filename": "",
+    "md5sum": "4ef2acbbcf7e31a9f4c2ed3449626538",
+    "filename": "lineage-13.0-20170709-NIGHTLY-duma.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
