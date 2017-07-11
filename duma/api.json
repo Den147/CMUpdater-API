@@ -1,12 +1,16 @@
 {
-  "response": 
-  [
+ "id": null,
+ "result": [
     {
-      "filename": "lineage-13.0-20170709-NIGHTLY-duma.zip",
-      "url": "https://goo.gl/sZ4mt8",
-      "md5sum": "4ef2acbbcf7e31a9f4c2ed3449626538",
-      "datetime": "1499619866",
-      "romtype": "nightly"
-    }
-  ]
+    "url": "https://qc3.androidfilehost.com/dl/pLUUObkPGms0ufLbHhhtAw/1500008769/889764386195915027/lineage-13.0-20170711-UNOFFICIAL-duma.zip",
+    "timestamp": "1499778410",
+    "api_level": "23",
+    "md5sum": "3028680185eb7bcf5ff76fcbfaa40efd",
+    "filename": "lineage-13.0-20170711-UNOFFICIAL-duma.zip",
+    "channel": "UNOFFICIAL",
+    "changes": "https://raw.githubusercontent.com/Den147/CMUpdater-API/los-13/duma/Changelog",
+    "incremental": ""
+    },
+  ],
+ "error": null
 }
